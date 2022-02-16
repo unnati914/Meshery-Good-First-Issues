@@ -10,4 +10,5 @@ A curated repo for all meshery good first issues
 | 4839 |[4839](https://github.com/meshery/meshery/issues/4839)     | Meshery
 |  2884| [2884](https://github.com/meshery/meshery/issues/2884) | Meshery|
 |  2854| [2854](https://github.com/meshery/meshery/issues/2854) | Meshery| 
-|   | []()   | Meshery | 
+|  671 | [671](https://github.com/meshery/meshery.io/issues/671)   | Meshery.io | 
+| 664  | [664](https://github.com/meshery/meshery.io/issues/664)    | Meshery.io | 
